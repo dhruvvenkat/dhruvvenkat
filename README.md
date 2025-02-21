@@ -4,6 +4,6 @@
 
 ✨ My skills: Object-oriented programming, recursive algorithms, web development (HTML, CSS, JS, React.JS, Node), C++, Java, Python
 
-⚒️ What I'm working on: AWS, Unix development, JS libraries (Next.js, Vue.js, etc.)
+⚒️ What I'm working on: AWS, Embedded Systems (STM32), Unix development, JS libraries (Next.js, Vue.js, etc.)
 
 ❤️ Thanks for stopping by!
